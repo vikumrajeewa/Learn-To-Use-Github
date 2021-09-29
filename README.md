@@ -1,3 +1,4 @@
+![](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 ## FORK, FIX, PR — that's all it takes!
 
 <p align="justify">This repository is full of issues, which you need to resolve, first by forking this repository, making changes and then creating a Pull Request in this repository. </p>
