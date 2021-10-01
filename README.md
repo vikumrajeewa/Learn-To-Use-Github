@@ -17,6 +17,7 @@
 | Prometheus                                             |Programming               |
 | John Henry                                             |Programming               |
 | Arizki Putra Rahman                                    |Web Developer             |
+| HCTN 01                                                |Programming               |
 | _Your Name Here_                                       | _What do you love?_      |
 
 ### For the README.md file, only the PRs involving changes to the Contributors table would be accepted.
