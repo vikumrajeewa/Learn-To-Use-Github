@@ -23,6 +23,7 @@
 | Plankton                                               | Cybersecurity            |
 | Huda Damar                                             | Frontend Web Programming |
 | Faiz Nurullah                                          | Web Developer |
+| Kaustuv Chattopadhyay                                  | Competetitive Programming|
 | _Your Name Here_                                       | _What do you love?_      |
 
 
