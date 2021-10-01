@@ -22,7 +22,8 @@
 | Dhruv Deora                                            | Web Developer,ML/AI      |
 | Plankton                                               | Cybersecurity            |
 | Huda Damar                                             | Frontend Web Programming |
-| Faiz Nurullah                                          | Web Developer |
+| Faiz Nurullah                                          | Web Developer            |
+| Prashant Ved                                           | Web Development          |
 | _Your Name Here_                                       | _What do you love?_      |
 
 
