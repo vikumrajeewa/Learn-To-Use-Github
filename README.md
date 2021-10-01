@@ -12,7 +12,7 @@
 | Contributors                                           | Interests              |
 | ------------------------------------------------------ | ---------------------- |
 | Ze Falcon                                              | Cybersecurity          |
-| _Your Name Here_                                       | _What do you love?_    |
+| Roshan                                            |programming, cybersecurity   |
 
 
 ### For the README.md file, only the PRs involving changes to the Contributors table would be accepted.
