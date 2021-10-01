@@ -16,6 +16,7 @@
 | CrazyYoungBroo                                         |Programming               |
 | Prometheus                                             |Programming               |
 | John Henry                                             |Programming               |
+| Arizki Putra Rahman                                    |Web Developer             |
 
 ### For the README.md file, only the PRs involving changes to the Contributors table would be accepted.
 
