@@ -13,6 +13,7 @@
 | ------------------------------------------------------ | ------------------------ |
 | Ze Falcon                                              | Cybersecurity            |
 | Roshan                                                 |programming, cybersecurity|
+| CrazyYoungBroo                                         |Programming               |
 | _Your Name Here_                                       | _What do you love?_      |
 
 
