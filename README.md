@@ -17,9 +17,10 @@
 | Prometheus                                             |Programming               |
 | John Henry                                             |Programming               |
 | Arizki Putra Rahman                                    |Web Developer             |
+| _Your Name Here_                                       | _What do you love?_      |
 
 ### For the README.md file, only the PRs involving changes to the Contributors table would be accepted.
-
+> Format for adding name : | _Your Name Here_                                       | _What do you love?_      |
 ### You can go through every content of this repository to figure out issues for which you can create Pull Requests.
 
 ### You can add coded projects in the projects directory
