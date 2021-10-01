@@ -22,3 +22,14 @@
 ### You can go through every content of this repository to figure out issues for which you can create Pull Requests.
 
 ### You can add coded projects in the projects directory
+
+# :handshake: Our Contributors
+<a href="https://github.com/hctnm1/HacktoberFest-2021/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hctnm1/HacktoberFest-2021" />
+</a>
+
+# Recommended Repos
+- https://github.com/hctnm1/HacktoberFest-Python/
+- https://github.com/hctnm2/Beginner-Hacktoberfest
+- https://github.com/hctnm2/hacktoberfest-2021
+- https://github.com/roshankcpkr/Hacktoberfest-web
