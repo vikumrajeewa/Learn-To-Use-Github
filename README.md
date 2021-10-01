@@ -9,10 +9,11 @@
 
 ## Add your information creating a new row above the last row in the table below!
 
-| Contributors                                           | Interests              |
-| ------------------------------------------------------ | ---------------------- |
-| Ze Falcon                                              | Cybersecurity          |
-| _Your Name Here_                                       | _What do you love?_    |
+| Contributors                                           | Interests                |
+| ------------------------------------------------------ | ------------------------ |
+| Ze Falcon                                              | Cybersecurity            |
+| Roshan                                                 |programming, cybersecurity|
+| _Your Name Here_                                       | _What do you love?_      |
 
 
 ### For the README.md file, only the PRs involving changes to the Contributors table would be accepted.
