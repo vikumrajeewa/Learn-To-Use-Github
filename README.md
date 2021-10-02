@@ -12,28 +12,32 @@
 
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
-| Ze Falcon                                              | Cybersecurity             |
-| Roshan                                                 | programming, cybersecurity|
-| CrazyYoungBroo                                         | Programming               |
-| Prometheus                                             | Programming               |
-| John Henry                                             | Programming               |
-| Arizki Putra Rahman                                    | Web Developer             |
-| HCTN 01                                                | Programming               |
-| Dhruv Deora                                            | Web Developer,ML/AI       |
-| Plankton                                               | Cybersecurity             |
-| Huda Damar                                             | Frontend Web Programming  |
-| Faiz Nurullah                                          | Web Developer             |
-| Prashant Ved                                           | Web Development           |
-| Kaustuv Chattopadhyay                                  | Competetitive Programming |
-| Namrutha Hari                                          | Fullstack Developer       |
-| Danar Putra                                 | Web Developer and Android Develope r |
-| Jagadeesh                                              | Web Developer             |
-| Sagnik Chatterjee                                | Web dev,Programming,Data Science|
-| HCTN 02                                                | Web Developer             |
-| Karan Heer                                             | Music                     |
-| _Your Name Here_                                       | _What do you love?_       |
-
-
+| Ze Falcon                                              | Cybersecurity            |
+| Roshan                                                 |programming, cybersecurity|
+| CrazyYoungBroo                                         |Programming               |
+| Prometheus                                             |Programming               |
+| John Henry                                             |Programming               |
+| Arizki Putra Rahman                                    |Web Developer             |
+| HCTN 01                                                |Programming               |
+| Dhruv Deora                                            | Web Developer,ML/AI      |
+| Plankton                                               | Cybersecurity            |
+| Huda Damar                                             | Frontend Web Programming |
+| Faiz Nurullah                                          | Web Developer            |
+| Prashant Ved                                           | Web Development          |
+| Kaustuv Chattopadhyay                                  | Competetitive Programming|
+| Namrutha Hari                                          | Fullstack Developer      |
+| Danar Putra                                 | Web Developer and Android Developer |
+| Jagadeesh                                              | Web Developer            |
+| Sagnik Chatterjee                               | Web dev,Programming,Data Science|
+| HCTN 02                                                | Web Developer            |
+| Pratik Jangale                                         | programming              |
+| Bil Abror                                              | Backend Developer        |
+| Hemant Fegade                                          | programming              |
+| Nethra Hari                                            | Python                   |
+| Shaman Siddique                                        | Web Devloper             |
+| Karan Heer                                             | Music                    |
+| _Your Name Here_                                       | _What do you love?_      |
+ 
 
 ### For the README.md file, only the PRs involving changes to the Contributors table would be accepted.
 
