@@ -24,6 +24,7 @@
 | Huda Damar                                             | Frontend Web Programming |
 | Faiz Nurullah                                          | Web Developer            |
 | Prashant Ved                                           | Web Development          |
+| Kaustuv Chattopadhyay                                  | Competetitive Programming|
 | _Your Name Here_                                       | _What do you love?_      |
 
 
