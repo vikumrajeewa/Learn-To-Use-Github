@@ -25,6 +25,7 @@
 | Faiz Nurullah                                          | Web Developer            |
 | Prashant Ved                                           | Web Development          |
 | Kaustuv Chattopadhyay                                  | Competetitive Programming|
+| Namrutha Hari                                          | Fullstack Developer      |
 | _Your Name Here_                                       | _What do you love?_      |
 
 
