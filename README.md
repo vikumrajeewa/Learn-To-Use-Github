@@ -27,7 +27,8 @@
 | Kaustuv Chattopadhyay                                  | Competetitive Programming|
 | Namrutha Hari                                          | Fullstack Developer      |
 | Danar Putra                                 | Web Developer and Android Developer |
-| Sagnik Chatterjee                                       | Web dev,Programming,Data Science|
+| Jagadeesh                                              | Web Developer            |
+| Sagnik Chatterjee                               | Web dev,Programming,Data Science|
 | _Your Name Here_                                       | _What do you love?_      |
 
 
