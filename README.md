@@ -38,6 +38,7 @@
 | Karan Heer                                             | Music                    |
 | Ridam Hazra                                            | Data Analysis            |    
 | Payoja Muduli                                          | Web Developer            |
+| Coding-Boon                                            | Learn Python             |
 | _Your Name Here_                                       | _What do you love?_      |
  
 
