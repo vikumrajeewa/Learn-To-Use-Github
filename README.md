@@ -1,10 +1,10 @@
 ![](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
-## FORK, FIX, PR — that's all it takes!
+## FORK, FIX, PR — that's all it takes
 
 <p align="justify">This repository is full of issues, which you need to resolve, first by forking this repository, making changes and then creating a Pull Request in this repository. </p>
 
-### Don't create a Pull Request changing the text above! Only the below ones are part of the challenge.
+### Don't create a Pull Request changing the text above! Only the below ones are part of the challenge
 
 ## Contributors Table
 
@@ -26,6 +26,7 @@
 | Prashant Ved                                           | Web Development          |
 | Kaustuv Chattopadhyay                                  | Competetitive Programming|
 | Namrutha Hari                                          | Fullstack Developer      |
+| Danar Putra                                 | Web Developer and Android Developer |
 | _Your Name Here_                                       | _What do you love?_      |
 
 
@@ -34,7 +35,7 @@
 
 > Format for adding name : | _Your Name Here_ | _What do you love?_ |
 
-### You can go through every content of this repository to figure out issues for which you can create Pull Requests.
+### You can go through every content of this repository to figure out issues for which you can create Pull Requests
 
 ### You can add coded projects in the projects directory
 
@@ -46,8 +47,8 @@
 
 # Recommended Repos
 
-- https://github.com/hctnm1/HacktoberFest-Python/
-- https://github.com/hctnm2/Beginner-Hacktoberfest
-- https://github.com/hctnm2/hacktoberfest-2021
-- https://github.com/roshankcpkr/Hacktoberfest-web
-- https://github.com/V35HR4J/Your-First-Contribution
+- <https://github.com/hctnm1/HacktoberFest-Python/>
+- <https://github.com/hctnm2/Beginner-Hacktoberfest>
+- <https://github.com/hctnm2/hacktoberfest-2021>
+- <https://github.com/roshankcpkr/Hacktoberfest-web>
+- <https://github.com/V35HR4J/Your-First-Contribution>
