@@ -30,6 +30,7 @@
 | Jagadeesh                                              | Web Developer            |
 | Sagnik Chatterjee                               | Web dev,Programming,Data Science|
 | HCTN 02                                                | Web Developer            |
+| Bil Abror                                              | Backend Developer        |
 | Hemant Fegade                                          | programming              |
 | Nethra Hari                                            | Python                   |
 | Shaman Siddique                                        | Web Devloper             |
