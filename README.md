@@ -37,6 +37,7 @@
 | Shaman Siddique                                        | Web Devloper             |
 | Karan Heer                                             | Music                    |
 | Ridam Hazra                                            | Data Analysis            |    
+| Payoja Muduli                                          | Web Developer            |
 | _Your Name Here_                                       | _What do you love?_      |
  
 
