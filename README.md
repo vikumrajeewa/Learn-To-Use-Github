@@ -28,6 +28,7 @@
 | Namrutha Hari                                          | Fullstack Developer      |
 | Danar Putra                                 | Web Developer and Android Developer |
 | Jagadeesh                                              | Web Developer            |
+| Sagnik Chatterjee                               | Web dev,Programming,Data Science|
 | _Your Name Here_                                       | _What do you love?_      |
 
 
