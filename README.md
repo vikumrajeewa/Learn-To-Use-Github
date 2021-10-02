@@ -31,9 +31,12 @@
 | Sagnik Chatterjee                               | Web dev,Programming,Data Science|
 | HCTN 02                                                | Web Developer            |
 | Pratik Jangale                                         | programming              |
-| _Your Name Here_                                      | _What do you love?_      |
-
-
+| Bil Abror                                              | Backend Developer        |
+| Hemant Fegade                                          | programming              |
+| Nethra Hari                                            | Python                   |
+| Shaman Siddique                                        | Web Devloper             |
+| _Your Name Here_                                       | _What do you love?_      |
+ 
 
 ### For the README.md file, only the PRs involving changes to the Contributors table would be accepted.
 
