@@ -35,6 +35,7 @@
 | Hemant Fegade                                          | programming              |
 | Nethra Hari                                            | Python                   |
 | Shaman Siddique                                        | Web Devloper             |
+| Karan Heer                                             | Music                    |
 | _Your Name Here_                                       | _What do you love?_      |
  
 
