@@ -35,9 +35,9 @@
 | Hemant Fegade                                          | programming              |
 | Nethra Hari                                            | Python                   |
 | Shaman Siddique                                        | Web Devloper             |
-| Karan Heer                                             | Music                    |
-| Ridam Hazra                                            | Data Analysis            |    
+| Md. Almas Ali                                          | Web Developer            |
 | _Your Name Here_                                       | _What do you love?_      |
+
  
 
 ### For the README.md file, only the PRs involving changes to the Contributors table would be accepted.
