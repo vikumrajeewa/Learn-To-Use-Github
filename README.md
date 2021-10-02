@@ -30,6 +30,7 @@
 | Jagadeesh                                              | Web Developer            |
 | Sagnik Chatterjee                               | Web dev,Programming,Data Science|
 | HCTN 02                                                | Web Developer            |
+| Nethra Hari                                            | Python                   |
 | Shaman Siddique                                        | Web Devloper             |
 | _Your Name Here_                                       | _What do you love?_      |
  
