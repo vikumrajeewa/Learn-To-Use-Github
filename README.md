@@ -8,25 +8,30 @@
 
 ## Contributors Table
 
-## Add your information creating a new row above the last row in the table below
+## Add your information creating a new row above the last row in the table below!
 
-| Contributors        | Interests                           |
-| ------------------- | ----------------------------------- |
-| Ze Falcon           | Cybersecurity                       |
-| Roshan              | programming, cybersecurity          |
-| CrazyYoungBroo      | Programming                         |
-| Prometheus          | Programming                         |
-| John Henry          | Programming                         |
-| Arizki Putra Rahman | Web Developer                       |
-| HCTN 01             | Programming                         |
-| Dhruv Deora         | Web Developer,ML/AI                 |
-| Plankton            | Cybersecurity                       |
-| Huda Damar          | Frontend Web Programming            |
-| Faiz Nurullah       | Web Developer                       |
-| Danar Putra         | Web Developer and Android Developer |
-| _Your Name Here_    | _What do you love?_                 |
+| Contributors                                           | Interests                |
+| ------------------------------------------------------ | ------------------------ |
+| Ze Falcon                                              | Cybersecurity            |
+| Roshan                                                 |programming, cybersecurity|
+| CrazyYoungBroo                                         |Programming               |
+| Prometheus                                             |Programming               |
+| John Henry                                             |Programming               |
+| Arizki Putra Rahman                                    |Web Developer             |
+| HCTN 01                                                |Programming               |
+| Dhruv Deora                                            | Web Developer,ML/AI      |
+| Plankton                                               | Cybersecurity            |
+| Huda Damar                                             | Frontend Web Programming |
+| Faiz Nurullah                                          | Web Developer            |
+| Prashant Ved                                           | Web Development          |
+| Kaustuv Chattopadhyay                                  | Competetitive Programming|
+| Namrutha Hari                                          | Fullstack Developer      |
+| Danar Putra                                 | Web Developer and Android Developer |
+| _Your Name Here_                                       | _What do you love?_      |
 
-### For the README.md file, only the PRs involving changes to the Contributors table would be accepted
+
+
+### For the README.md file, only the PRs involving changes to the Contributors table would be accepted.
 
 > Format for adding name : | _Your Name Here_ | _What do you love?_ |
 
