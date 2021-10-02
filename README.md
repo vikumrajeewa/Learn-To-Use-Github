@@ -35,6 +35,9 @@
 | Hemant Fegade                                          | programming              |
 | Nethra Hari                                            | Python                   |
 | Shaman Siddique                                        | Web Devloper             |
+| Karan Heer                                             | Music                    |
+| Ridam Hazra                                            | Data Analysis            |    
+| Payoja Muduli                                          | Web Developer            |
 | Md. Almas Ali                                          | Web Developer            |
 | _Your Name Here_                                       | _What do you love?_      |
 
