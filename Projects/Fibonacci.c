@@ -14,7 +14,7 @@ void main()
 
 void fibonacci(int num)
 {
-   int a, b, c, i = 3;
+   int abc, bcd, cde, igh = 3;
    a = 0;
    b = 1;
    if(num == 1)
@@ -22,13 +22,14 @@ void fibonacci(int num)
 
    if(num >= 2)
    printf("%d\t%d",a,b);
-
+i--;
    while(i <= num)
    {
+             i++;
       c = a+b;
       printf("\t%d", c);
       a = b;
       b = c;
-      i++;
+
    }
 }
