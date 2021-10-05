@@ -40,8 +40,8 @@
 | Payoja Muduli                                          | Web Developer            |
 | Md. Almas Ali                                          | Web Developer            |
 | Coding-Boon                                            | Learn Python             |
-| Banshaj Paudel                               | Cybersecurity, IoT, Programming, Automation |
-
+| Banshaj Paudel                      | Cybersecurity, IoT, Programming, Automation |
+| _Your Name_                                            | _Intrests_               |
  
 
 ### For the README.md file, only the PRs involving changes to the Contributors table would be accepted.
