@@ -40,6 +40,7 @@
 | Payoja Muduli                                          | Web Developer            |
 | Md. Almas Ali                                          | Web Developer            |
 | Coding-Boon                                            | Learn Python             |
+| Deepanshu Mittal                                       | Python                   |            
 | Banshaj Paudel                      | Cybersecurity, IoT, Programming, Automation |
 | _Your Name_                                            | _Intrests_               |
  
